@@ -56,7 +56,7 @@ const CandidatesPage: React.FC = () => {
     },
     {
       id: '6',
-      name: 'James Wilson',
+      name: 'Simeon Great',
       bio: 'Environmental scientist focused on sustainable development and climate change solutions.',
       image: 'https://images.pexels.com/photos/1552058/pexels-photo-1552058.jpeg?auto=compress&cs=tinysrgb&w=400&h=400&fit=crop',
       totalVotes: 7650,
